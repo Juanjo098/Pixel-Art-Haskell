@@ -52,3 +52,5 @@ Una vez hecho todo esto ya podrás ejecutar el proyecto abriendo el cmd en la ru
 cabal build
 cabal run
 ```
+
+https://drive.google.com/drive/folders/1-V6yDhVbpA8uir9xygHImOkQyXyExIXV?usp=drive_link
